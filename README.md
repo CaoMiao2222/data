@@ -18,7 +18,6 @@ dataset/
 ├── labels/
 │   ├── train/
 │   └── val/
-└── README.md
 images/: Original images for training and validation.
 
 labels/: Corresponding annotations in VOC format (.xml files).
